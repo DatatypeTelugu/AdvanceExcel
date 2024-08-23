@@ -19,7 +19,7 @@ Your contributions make our community stronger. If you have suggestions for addi
 - **Submit a pull request** with your proposed changes or additions.
 
 ## Connect With Us
-- **YouTube**: [Data Type Telugu](https://www.youtube.com/channel/DatatypeTelugu) - Subscribe to our channel for regular video tutorials.
+- **YouTube**: [Data Type Telugu](https://www.youtube.com/@DatatypeTelugu) - Subscribe to our channel for regular video tutorials.
 - **Feedback/Support**: If you have any feedback or need support with the resources, please open an issue here on GitHub or contact us via our YouTube channel.
 
 ## Acknowledgments
